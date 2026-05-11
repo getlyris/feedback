@@ -1,6 +1,6 @@
 # Lyris — Feedback & Feature Requests
 
-Lyris is a native iOS music player for Navidrome.
+Lyris is a native iOS music player for Navidrome with Lidarr integration. 
 
 👉 [Get it on TestFlight](https://testflight.apple.com/join/hVvZ1F7t)
 
